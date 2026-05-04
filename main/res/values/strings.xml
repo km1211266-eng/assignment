@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="review_hacks_myths">Review Hacks/Myths</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="back_to_main">Back to Main</string>
+</resources>
